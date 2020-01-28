@@ -1,10 +1,10 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfrancisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - fresno-gutierrez
+  - sacramento-gutierrez
+  - losangeles-gutierrez
+  - sanfrancisco-gutierrez
+  - indio-gutierrez
+  - palmsprings-gutierrez
+  - sandiego-gutierrez
+  - napa-gutierrez
